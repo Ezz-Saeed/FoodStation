@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Item>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<a asp-action="Create" class="btn btn-primary btn-lg">
+    <i class="bi bi-plus-circle-dotted"></i>
+    New Meal
+</a>
+<div class="mt-3">
+    <a asp-action="Create" asp-controller="Categories" class="btn btn-primary btn-lg">
+        <i class="bi bi-plus-circle-dotted"></i>
+        New Category
+    </a>
+</div>
+
+<table class="table table-bordered border-primary mt-5">
+    <thead>
+        <tr class="border-primary">
+            <th scope="col">Meal</th>
+            <th scope="col">Category</th>
+            <th scope="col">Modify</th>
+            <th scope="col">Remove</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr class="border border-primary">
+                <td>
+                    <div class="d-flex">
+                        <div class="pe-4">
+                            <img src="@($"{FileSettings.FilePath}/{item.ImagePath}")" alt="@item.Name" style="max-width: 90px;">
+                            <div>@item.Name</div>
+                        </div>                                           
+                    </div>
+                </td>
+                <td>
+                    <div class="d-flex">
+                        <div class="d-flex flex-column justify-content-center">
+                            <h5>@item.Category.Name</h5>
+                        </div>
+                    </div>
+                </td>
+                <td>
+                    <div class="d-flex">
+                        <a asp-action="Update" asp-controller="Items" asp-route-id="@item.Id" class="btn btn-primary rounded rounded-3 ">
+                            <i class="bi bi-pencil-fill">Modify</i>
+                        </a>
+                    </div>
+                </td>
+                <td>
+                    <div class="d-flex">
+                        <a asp-action="Delete" asp-controller="Items" asp-route-id="@item.Id" class="btn btn-danger rounded rounded-3">
+                            <i class="bi bi-trash3">Remove</i>
+                        </a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

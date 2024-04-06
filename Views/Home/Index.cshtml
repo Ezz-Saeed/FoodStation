@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Item>
+
+@{
+    ViewData["Title"] = "Items";
+}
+
+
+
+
+<div class="row mt-5">
+    @foreach (var item in Model)
+    {
+        <div class="col-lg-4 col-md-6  rounded-3 overflow-hidden"  >
+            <div class="card border-primary mt-4 mb-3" style="max-width:345px;">
+                <a class="card-body text-decoration-none" asp-action="Details" asp-controller="Items" asp-route-id="@item.Id"
+                style="background-image: url(@($"{FileSettings.FilePath}/{item.ImagePath}")); background-size: cover;
+       background-position:center; height: 350px">
+                    <div class="h-100 d-flex align-items-end">
+                        <span class="badge bg-primary rounded-0 fs-5">@item.Category.Name</span>                    
+                    </div>                    
+                </a>
+         
+                <div class="text-muted card-footer d-flex justify-content-between align-items-center">
+                    <h5 class="text-primary">@item.Name</h5>
+                    <span class="text-primary fs-5">
+                       @item.Price
+                    </span>
+                    <span class="text-primary fs-5">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <a class="btn btn-primary" asp-action="OrderItem" asp-controller="Items" asp-route-id="@item.Id">Order</a>
+
+                        }
+                    </span>
+                </div>
+
+            </div>
+        </div>
+       
+    }
+</div>
+

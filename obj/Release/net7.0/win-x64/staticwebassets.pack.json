@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\FoodCorner\\obj\\Release\\net7.0\\win-x64\\scopedcss\\projectbundle\\FoodCorner.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FoodCorner.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\assets\\images\\itemsimages\\1baba48b-630e-4dc2-8f17-be1d727b9eaafruits2jpg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\itemsimages\\1baba48b-630e-4dc2-8f17-be1d727b9eaafruits2jpg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\assets\\images\\itemsimages\\31cbef3b-a614-4d73-acf3-8ccd152f7a53fruits2jpg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\itemsimages\\31cbef3b-a614-4d73-acf3-8ccd152f7a53fruits2jpg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\assets\\images\\itemsimages\\39c0413d-3619-4534-9bcb-c1e09b357958fruits2jpg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\itemsimages\\39c0413d-3619-4534-9bcb-c1e09b357958fruits2jpg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\assets\\images\\itemsimages\\4104327f-0354-473e-ad7a-092b05e040fefruits2jpg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\itemsimages\\4104327f-0354-473e-ad7a-092b05e040fefruits2jpg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\assets\\images\\itemsimages\\4121cd1c-80e2-4caa-bdd5-3cef9bc4b1fcfruits2jpg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\itemsimages\\4121cd1c-80e2-4caa-bdd5-3cef9bc4b1fcfruits2jpg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\assets\\images\\itemsimages\\6a33fa49-60e3-44e5-9b8c-853bc1a2e86cfruits2jpg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\itemsimages\\6a33fa49-60e3-44e5-9b8c-853bc1a2e86cfruits2jpg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\assets\\images\\itemsimages\\72116dab-d9e3-4a2b-8cd4-d1c7e2daf31cimages.jfif",
+      "PackagePath": "staticwebassets\\assets\\images\\itemsimages\\72116dab-d9e3-4a2b-8cd4-d1c7e2daf31cimages.jfif"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\assets\\images\\itemsimages\\7ad673eb-38e4-4bae-95e4-ff7f8e0b217bHotDog.jfif",
+      "PackagePath": "staticwebassets\\assets\\images\\itemsimages\\7ad673eb-38e4-4bae-95e4-ff7f8e0b217bHotDog.jfif"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\assets\\images\\itemsimages\\87b3d234-6c9e-4aa0-bc80-7f3f7180dd8cimages.jfif",
+      "PackagePath": "staticwebassets\\assets\\images\\itemsimages\\87b3d234-6c9e-4aa0-bc80-7f3f7180dd8cimages.jfif"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\assets\\images\\itemsimages\\899e507a-ea53-4b82-97f9-1191fb1a71b7fruits2jpg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\itemsimages\\899e507a-ea53-4b82-97f9-1191fb1a71b7fruits2jpg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\assets\\images\\itemsimages\\96efbf81-ca8e-46fa-9fc2-4f10d8077de3fruits2jpg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\itemsimages\\96efbf81-ca8e-46fa-9fc2-4f10d8077de3fruits2jpg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\assets\\images\\itemsimages\\a6f49ee7-90a2-430b-9675-89f083372784fruits2jpg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\itemsimages\\a6f49ee7-90a2-430b-9675-89f083372784fruits2jpg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\assets\\images\\itemsimages\\a7d3b65b-eb79-4fa5-b0d3-4ff20e84bc2ameat.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\itemsimages\\a7d3b65b-eb79-4fa5-b0d3-4ff20e84bc2ameat.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\assets\\images\\itemsimages\\c2b82134-a0f7-4b4e-a8fd-53ca02a3d14bimages.jfif",
+      "PackagePath": "staticwebassets\\assets\\images\\itemsimages\\c2b82134-a0f7-4b4e-a8fd-53ca02a3d14bimages.jfif"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\assets\\images\\itemsimages\\cda396b8-e041-4d28-8b06-3d7f8172dc73istockphoto-1314889751-1024x1024.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\itemsimages\\cda396b8-e041-4d28-8b06-3d7f8172dc73istockphoto-1314889751-1024x1024.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\assets\\images\\itemsimages\\d3885ffd-8c9c-48af-9308-448e9f5c661dfruits2jpg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\itemsimages\\d3885ffd-8c9c-48af-9308-448e9f5c661dfruits2jpg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\assets\\images\\itemsimages\\dabb331d-a129-4854-850f-f705a57f080efruits2jpg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\itemsimages\\dabb331d-a129-4854-850f-f705a57f080efruits2jpg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\css\\bootstrap.min (1).css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min (1).css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\js\\imageUpload.js",
+      "PackagePath": "staticwebassets\\js\\imageUpload.js"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.json"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\FoodCorner\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x64\\staticwebassets\\msbuild.FoodCorner.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x64\\staticwebassets\\msbuild.build.FoodCorner.props",
+      "PackagePath": "build\\FoodCorner.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x64\\staticwebassets\\msbuild.buildMultiTargeting.FoodCorner.props",
+      "PackagePath": "buildMultiTargeting\\FoodCorner.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x64\\staticwebassets\\msbuild.buildTransitive.FoodCorner.props",
+      "PackagePath": "buildTransitive\\FoodCorner.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

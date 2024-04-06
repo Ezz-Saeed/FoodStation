@@ -1,0 +1,7 @@
+﻿
+
+
+<span>To confirm your eaccount clich here </span>
+<a href="Account/ConfirmEmail/@User.Claims.Single(c => c.Type == "UserId").Value">Confirm</a>
+@* " asp-action="ConfirmEmail" asp-controller="Account" asp-route-id="@User.Claims.Single(c => c.Type == "UserId").Value">Confirm</a>
+ *@

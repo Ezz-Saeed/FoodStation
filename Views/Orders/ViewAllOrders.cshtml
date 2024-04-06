@@ -1,0 +1,46 @@
+﻿
+@model IEnumerable<Order>
+@{
+    ViewData["Title"] = "Orders";
+}
+
+<table class="table table-bordered border-primary mt-5">
+    <thead>
+        <tr class="border-primary">
+            <th scope="col">Name</th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr class="border border-primary">
+                <td>
+                    <div class="d-flex">
+                        <div class="d-flex flex-column justify-content-center">
+                            <h5>@order.TypeUser.UserName</h5>
+                        </div>
+                    </div>
+                </td>
+                
+
+                <td>
+                    <div class="d-flex">
+                        <a asp-action="OrderDetails" asp-controller="Orders" asp-route-id="@order.Id" class="btn btn-primary rounded rounded-3 ">
+                            <i class="bi bi-info-square-fill">  Details</i>
+                        </a>
+                    </div>
+                </td>
+                <td>
+                    <div class="d-flex">
+                        <a asp-action="ProcessOrder" asp-controller="Orders" asp-route-id="@order.Id" class="btn btn-success rounded rounded-3">
+                            <i class="bi bi-bag-check-fill">  Process</i>
+                        </a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
